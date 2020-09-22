@@ -27,7 +27,8 @@ export const Portfolio = ({
 					selectedQuote={selectedQuote}
 					about={about}
 					skills={skills}
-					projects={projects} />
+					projects={projects} 
+                    />
             </div>
         </div>
     );

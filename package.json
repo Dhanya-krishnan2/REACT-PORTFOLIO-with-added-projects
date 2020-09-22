@@ -34,5 +34,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "A simple portfolio website made in react for the webinar \r **Webinar Link:** [http://bit.ly/CCReactPortfolio](http://bit.ly/CCReactPortfolio)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhavBahlMD/portfolio.git"
+  },
+  "author": "dhanya kunhikrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhavBahlMD/portfolio/issues"
   }
 }
